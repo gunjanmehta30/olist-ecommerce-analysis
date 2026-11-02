@@ -1,0 +1,3 @@
+delivery_status,orders,share_of_orders_pct,avg_review,avg_delivery_days,pct_bad_reviews,revenue
+On time / early,89443,93.3,4.29,11.0,9.3,12155377.9
+Late,6381,6.7,2.27,33.8,62.4,953366.55

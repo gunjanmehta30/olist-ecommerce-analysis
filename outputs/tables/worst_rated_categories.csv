@@ -1,0 +1,11 @@
+category,orders,revenue,avg_review,pct_bad_reviews,late_rate_pct
+office_furniture,1244,265269.64,3.64,21.9,8.0
+audio,345,50290.91,3.84,21.7,11.6
+home_confort,390,57231.55,3.88,18.7,9.5
+home_construction,481,81155.07,3.99,17.3,6.0
+bed_bath_table,9177,1013590.72,4.0,16.0,7.3
+unknown,1382,169652.36,4.01,17.4,7.2
+telephony,4069,307797.66,4.05,14.1,7.1
+furniture_decor,6260,705997.44,4.06,15.4,7.0
+furniture_living_room,409,66169.04,4.07,14.2,7.1
+computers_accessories,6499,884760.96,4.08,14.6,6.3

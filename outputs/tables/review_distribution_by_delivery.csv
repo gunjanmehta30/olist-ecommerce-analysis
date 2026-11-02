@@ -1,0 +1,11 @@
+delivery_status,review_score,orders,pct_within_group
+On time / early,1,5920,6.6
+On time / early,2,2369,2.6
+On time / early,3,7222,8.1
+On time / early,4,18239,20.4
+On time / early,5,55693,62.3
+Late,1,3431,53.8
+Late,2,552,8.7
+Late,3,694,10.9
+Late,4,649,10.2
+Late,5,1055,16.5
